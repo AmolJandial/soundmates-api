@@ -67,3 +67,5 @@ package-lock.json
 .eslintcache
 *v8.log
 /lib/
+.prettierrc.json
+eslint.config.mjs
