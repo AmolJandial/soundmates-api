@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.8.2"}
+{"root":["./src/index.ts","./src/config/logger-config.ts","./src/config/passport-jwt.strategy.ts","./src/config/z-config.ts","./src/dto/get-user.dto.ts","./src/dto/payload.ts","./src/dto/register.dto.ts","./src/dto/verify-phone.dto.ts","./src/handlers/auth.ts","./src/handlers/user.ts","./src/middlleware/error-handler.ts","./src/models/user.ts","./src/routers/auth.ts","./src/routers/user.ts"],"version":"5.8.2"}
